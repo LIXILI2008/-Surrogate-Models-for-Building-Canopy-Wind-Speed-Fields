@@ -1,0 +1,28 @@
+{
+  "version": "2.5",
+  "models": {
+    "mlp": "v23_mlp",
+    "unet_si": "unet_si",
+    "unet": "unet",
+    "fno": "fno",
+    "ufno": "ufno",
+    "mlp_data": "mlp_data"
+  },
+  "reference_results": "C:\\Users\\lxl\\Documents\\ChatGPT\\new2\\project_suzhou_validation\\artifacts\\p05_w32_iter1500_20261009\\retrain_original28",
+  "new_results": "C:\\Users\\lxl\\Documents\\ChatGPT\\new2\\project_v2_5\\artifacts",
+  "training_buildings": 28,
+  "retrospective_buildings": 20,
+  "external_buildings": 5,
+  "evaluation": {
+    "grid": [
+      128,
+      128
+    ],
+    "z_range": "H < z < 1.5H",
+    "units": "m/s",
+    "building_weight": "equal",
+    "height_weight": "interval",
+    "ssim_data_range": 13
+  },
+  "scope": "Unified code project; legacy checkpoint keys retained for compatibility; no new training performed by migration"
+}

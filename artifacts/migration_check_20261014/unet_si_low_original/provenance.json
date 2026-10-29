@@ -1,0 +1,21 @@
+{
+  "method": "unet_si",
+  "seed": 20261001,
+  "dims_WLH_m": [
+    18.0,
+    18.0,
+    18.0
+  ],
+  "z_m": 18.9,
+  "checkpoint_sha256": "4999946edf4e440a9d4b380e87d83923d422b6120fd4299c6e5ed53c4ecc4b9e",
+  "grid_size": 128,
+  "bounds": [
+    -36.0,
+    -27.0,
+    54.0,
+    27.0
+  ],
+  "units": "m/s",
+  "inflow": "U(z)=3*(z/10)^0.4 m/s; wind +x",
+  "interpretation": "Model prediction only; no CFD label or accuracy claim for this query"
+}

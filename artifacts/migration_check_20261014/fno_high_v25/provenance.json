@@ -1,0 +1,23 @@
+{
+  "method": "fno",
+  "seed": 20261001,
+  "dims_WLH_m": [
+    25.0,
+    40.0,
+    90.0
+  ],
+  "z_m": 94.5,
+  "checkpoint_sha256": "f41f73ba503507fd8e1baf6ef6e3e6851dcaa3e12f65975416a352efb67a1bbf",
+  "grid_size": 128,
+  "bounds": [
+    -80.0,
+    -37.5,
+    120.0,
+    37.5
+  ],
+  "units": "m/s",
+  "inflow": "U(z)=3*(z/10)^0.4 m/s; wind +x",
+  "interpretation": "Model prediction only; no CFD label or accuracy claim for this query",
+  "project_version": "2.5",
+  "configuration": "fno"
+}

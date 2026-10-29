@@ -1,0 +1,434 @@
+[
+  {
+    "model": "mlp",
+    "case": "low",
+    "dims_WLH": [
+      18,
+      18,
+      18
+    ],
+    "z": 18.9,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "mlp",
+    "case": "high",
+    "dims_WLH": [
+      25,
+      40,
+      90
+    ],
+    "z": 94.5,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "unet_si",
+    "case": "low",
+    "dims_WLH": [
+      18,
+      18,
+      18
+    ],
+    "z": 18.9,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "unet_si",
+    "case": "high",
+    "dims_WLH": [
+      25,
+      40,
+      90
+    ],
+    "z": 94.5,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "unet",
+    "case": "low",
+    "dims_WLH": [
+      18,
+      18,
+      18
+    ],
+    "z": 18.9,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "unet",
+    "case": "high",
+    "dims_WLH": [
+      25,
+      40,
+      90
+    ],
+    "z": 94.5,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "fno",
+    "case": "low",
+    "dims_WLH": [
+      18,
+      18,
+      18
+    ],
+    "z": 18.9,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "fno",
+    "case": "high",
+    "dims_WLH": [
+      25,
+      40,
+      90
+    ],
+    "z": 94.5,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "ufno",
+    "case": "low",
+    "dims_WLH": [
+      18,
+      18,
+      18
+    ],
+    "z": 18.9,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "ufno",
+    "case": "high",
+    "dims_WLH": [
+      25,
+      40,
+      90
+    ],
+    "z": 94.5,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "mlp_data",
+    "case": "low",
+    "dims_WLH": [
+      18,
+      18,
+      18
+    ],
+    "z": 18.9,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  },
+  {
+    "model": "mlp_data",
+    "case": "high",
+    "dims_WLH": [
+      25,
+      40,
+      90
+    ],
+    "z": 94.5,
+    "seed": 20261001,
+    "arrays": {
+      "xy_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "speed_mps": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "dims_WLH_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      },
+      "z_m": {
+        "exact": true,
+        "max_absolute_difference": 0.0,
+        "finite": true
+      }
+    },
+    "checkpoint_identical": true,
+    "provenance_identical": true,
+    "passed": true
+  }
+]
